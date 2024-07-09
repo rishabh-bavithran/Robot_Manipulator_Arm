@@ -19,11 +19,20 @@ This project involved the design and fabrication of an industrial robot manipula
 The project began with the creation of an initial CAD design of the robot arm using CREO Parametric. Multiple iterations were produced, each improving upon the previous design in terms of reach, torque requirements, and workspace area. These iterations were imported into Altair Inspire for motion analysis, ensuring that each version met the desired performance criteria.
 
 Clippings from the Report
+
 ***First Iteration Results*** - Design, Workspace and Torque Requirements
 <p align="center">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9c4ea211-2462-4466-8cba-9e5a85cd6ed4" alt="Screenshot 1" width="200"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9318acc8-8c41-4e33-a8c6-0ddac3b41521" alt="Screenshot 2" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/aad4b5cb-b907-40d7-a8d9-5fcc58b11828" alt="Screenshot 3" width="400"/>
+</p>
+
+***Final Iteration Results*** - Design, Workspace and Torque Requirements
+
+<p align="center">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9b4c13cf-fa67-4439-aebf-52cbe47001e7" alt="Screenshot 1" width="300"/>
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/f2d7630d-6ba6-4535-96c6-7a329d8a77fd" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c249b8e5-4b7f-431a-a792-70f488f6f0a7" alt="Screenshot 3" width="300"/>
 </p>
 
 
