@@ -32,7 +32,7 @@ Clippings from the Report
 <p align="center">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/1f68eb65-aed9-47d7-a0d8-f3faedf8bde2" alt="Screenshot" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9b4c13cf-fa67-4439-aebf-52cbe47001e7" alt="Screenshot 1" width="300"/>
-  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/f2d7630d-6ba6-4535-96c6-7a329d8a77fd" alt="Screenshot 2" width="300"/>
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/f2d7630d-6ba6-4535-96c6-7a329d8a77fd" alt="Screenshot 2" width="400"/>
 </p>
 
 
