@@ -64,9 +64,11 @@ Based on stress analysis results, topographical optimization was performed on no
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/a8a5328c-67ff-47ad-bfcb-d8653ed90db0" width="400"/>
 
 
+
 ***Final Design Based on Optimization Results***
 
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/61de248f-10fd-4302-b215-ad6cfed894f8" width="400"/>
+
 
 ### 3D Printing Technique Evaluation
 Various 3D printing techniques were evaluated to determine the most suitable method for fabricating the robot arm. Factors such as time, cost, and required stiffness were considered in this evaluation to ensure the final product met the necessary specifications.
