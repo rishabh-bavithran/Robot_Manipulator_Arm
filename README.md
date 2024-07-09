@@ -64,13 +64,17 @@ Based on stress analysis results, topographical optimization was performed on no
 
 ***Topographical Optimization on Heavy Part***
 
+<p align="center">
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/a8a5328c-67ff-47ad-bfcb-d8653ed90db0" width="400"/>
+</p>
 
 
 
 ***Final Design Based on Optimization Results***
 
+<p align="center">
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/61de248f-10fd-4302-b215-ad6cfed894f8" width="400"/>
+</p>
 
 
 ### 3D Printing Technique Evaluation
