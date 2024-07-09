@@ -62,6 +62,7 @@ Based on stress analysis results, topographical optimization was performed on no
 ***Topographical Optimization on Heavy Part***
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/a8a5328c-67ff-47ad-bfcb-d8653ed90db0" width="400"/>
 
+
 ***Final Design Based on Optimization Results***
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/61de248f-10fd-4302-b215-ad6cfed894f8" width="400"/>
 
