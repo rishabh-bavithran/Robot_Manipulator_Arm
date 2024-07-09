@@ -73,6 +73,17 @@ Based on stress analysis results, topographical optimization was performed on no
 ### 3D Printing Technique Evaluation
 Various 3D printing techniques were evaluated to determine the most suitable method for fabricating the robot arm. Factors such as time, cost, and required stiffness were considered in this evaluation to ensure the final product met the necessary specifications.
 
+***3D Printed Parts***
+
+![Picture7](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/90c1e8e5-52d7-4f4c-ab80-2978011c1241)
+![Picture8](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/8e1b9678-faa2-457a-accc-be91ee9cb77f)
+![Picture6](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c11d19f3-33f7-4862-a6e4-be67d89e409f)
+
+<p align="center">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/90c1e8e5-52d7-4f4c-ab80-2978011c1241" width="400">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/8e1b9678-faa2-457a-accc-be91ee9cb77f" width="400">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c11d19f3-33f7-4862-a6e4-be67d89e409f" width="400">
+</p>
 ### Forward Kinematics
 Forward kinematics equations were generated using Denavit-Hartenberg rules. These equations provided a mathematical model of the robot arm's movements, enabling precise control and operation.
 
