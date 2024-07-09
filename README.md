@@ -75,13 +75,9 @@ Various 3D printing techniques were evaluated to determine the most suitable met
 
 ***3D Printed Parts***
 
-![Picture7](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/90c1e8e5-52d7-4f4c-ab80-2978011c1241)
-![Picture8](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/8e1b9678-faa2-457a-accc-be91ee9cb77f)
-![Picture6](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c11d19f3-33f7-4862-a6e4-be67d89e409f)
-
 <p align="center">
-  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/90c1e8e5-52d7-4f4c-ab80-2978011c1241" width="400">
-  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/8e1b9678-faa2-457a-accc-be91ee9cb77f" width="400">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/90c1e8e5-52d7-4f4c-ab80-2978011c1241" width="100">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/8e1b9678-faa2-457a-accc-be91ee9cb77f" width="100">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c11d19f3-33f7-4862-a6e4-be67d89e409f" width="400">
 </p>
 ### Forward Kinematics
