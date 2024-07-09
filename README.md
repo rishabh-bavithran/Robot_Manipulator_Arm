@@ -47,7 +47,10 @@ The design included detailed joint definitions and the incorporation of gears an
 <p align="center">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/28ccc6b7-4715-4975-a8ca-17c85b08f66b" alt="Picture2" width="400"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/080808f2-c739-4e44-9f39-d05cab157f15" alt="Picture3" width="400"/>
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/d5053fc8-d27b-43fe-a71f-9fd0aa78c307" width="400">
+
 </p>
+
 
 
 ### Motion Analysis
