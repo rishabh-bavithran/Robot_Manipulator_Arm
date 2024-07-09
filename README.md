@@ -44,6 +44,12 @@ Clippings from the Report
 ### Joint and Gear Mechanism
 The design included detailed joint definitions and the incorporation of gears and structures necessary for effective motion transmission. The stepper motor's movement was transmitted to the robot arm's links through these gears, enabling precise and controlled movements.
 
+<p align="center">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/28ccc6b7-4715-4975-a8ca-17c85b08f66b" alt="Picture2" width="400"/>
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/080808f2-c739-4e44-9f39-d05cab157f15" alt="Picture3" width="400"/>
+</p>
+
+
 ### Motion Analysis
 Extensive motion analysis was performed to test the effectiveness of the design. This involved analyzing motion transmission through gravitational and contact forces, defining contact surfaces, and applying various load conditions. Altair Inspire was used for these analyses, ensuring that the design could withstand operational stresses.
 
