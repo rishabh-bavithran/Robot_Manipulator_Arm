@@ -18,7 +18,7 @@ The project began with the creation of an initial CAD design of the robot arm us
 Clippings from the Report
 
 ***First Iteration Results*** - Design, Workspace and Torque Requirements
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9c4ea211-2462-4466-8cba-9e5a85cd6ed4" alt="Screenshot 1" width="200"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9318acc8-8c41-4e33-a8c6-0ddac3b41521" alt="Screenshot 2" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/aad4b5cb-b907-40d7-a8d9-5fcc58b11828" alt="Screenshot 3" width="400"/>
