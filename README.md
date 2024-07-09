@@ -35,6 +35,11 @@ Clippings from the Report
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/f2d7630d-6ba6-4535-96c6-7a329d8a77fd" alt="Screenshot 2" width="400"/>
 </p>
 
+***Percentage Reduction in Torque for Each Iteration***
+<p align="center">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/050afd84-47dd-4304-84e6-9a1d403ca0cf" alt="Screenshot" width="500"/>
+</p>
+
 
 ### Joint and Gear Mechanism
 The design included detailed joint definitions and the incorporation of gears and structures necessary for effective motion transmission. The stepper motor's movement was transmitted to the robot arm's links through these gears, enabling precise and controlled movements.
