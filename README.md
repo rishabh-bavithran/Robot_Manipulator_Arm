@@ -101,7 +101,7 @@ Forward kinematics equations were generated using Denavit-Hartenberg rules. Thes
 
 ***Final Transformation Matrix***
 
-<img src = "https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/5c8cb580-29c7-4a8d-a339-8b7d648bb82f" alt="Equation" width="180"/>
+<img src = "https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/5c8cb580-29c7-4a8d-a339-8b7d648bb82f" alt="Equation" width="200"/>
 
 <img src = "https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/3c9e68aa-b7bf-4c30-bb81-8d0984428443" alt="Final Equation" width="500"/>
 
