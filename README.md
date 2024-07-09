@@ -101,9 +101,9 @@ Forward kinematics equations were generated using Denavit-Hartenberg rules. Thes
 
 ***Final Transformation Matrix***
 
-<img src = "https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/5c8cb580-29c7-4a8d-a339-8b7d648bb82f" alt="Equation" width="130"/>
+<img src = "https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/5c8cb580-29c7-4a8d-a339-8b7d648bb82f" alt="Equation" width="150"/>
 
-<img src = "https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/3c9e68aa-b7bf-4c30-bb81-8d0984428443" alt="Final Equation" width="350"/>
+<img src = "https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/3c9e68aa-b7bf-4c30-bb81-8d0984428443" alt="Final Equation" width="500"/>
 
 ## Conclusion
 The design and fabrication of the robot manipulator arm were successfully completed, resulting in a highly optimized and efficient industrial robot arm. This project demonstrated the effective use of 3D printing techniques in robotics and provided valuable insights into design optimization and motion analysis.
