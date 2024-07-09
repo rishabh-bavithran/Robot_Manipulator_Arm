@@ -59,7 +59,7 @@ Extensive motion analysis was performed to test the effectiveness of the design.
 ### Design Optimization
 Based on stress analysis results, topographical optimization was performed on non-crucial sections of the design. This optimization aimed to reduce material usage and weight while maintaining structural integrity, ultimately enhancing the overall design.
 
-<img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/a8a5328c-67ff-47ad-bfcb-d8653ed90db0" width="400" height="300">
+<img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/a8a5328c-67ff-47ad-bfcb-d8653ed90db0" width="400"/>
 
 ### 3D Printing Technique Evaluation
 Various 3D printing techniques were evaluated to determine the most suitable method for fabricating the robot arm. Factors such as time, cost, and required stiffness were considered in this evaluation to ensure the final product met the necessary specifications.
