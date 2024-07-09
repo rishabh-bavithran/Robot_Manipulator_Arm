@@ -93,5 +93,13 @@ Various 3D printing techniques were evaluated to determine the most suitable met
 ### Forward Kinematics
 Forward kinematics equations were generated using Denavit-Hartenberg rules. These equations provided a mathematical model of the robot arm's movements, enabling precise control and operation.
 
+***DH Table based on Robot Dimensions***
+<p align="center">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/6b80c642-2405-424b-b9f4-ef11262e3ce2" alt="unnamed" width="300"/>
+  <img width="303" alt="Screenshot 2024-07-09 170959" src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c04e0a84-939f-4e4c-80fb-531b2183b4c0">
+</p>
+
+
+
 ## Conclusion
 The design and fabrication of the robot manipulator arm were successfully completed, resulting in a highly optimized and efficient industrial robot arm. This project demonstrated the effective use of 3D printing techniques in robotics and provided valuable insights into design optimization and motion analysis.
