@@ -26,14 +26,14 @@ Clippings from the Report
 
 ***Final Iteration Results*** - Design, Workspace and Torque Requirements
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/1f68eb65-aed9-47d7-a0d8-f3faedf8bde2" alt="Screenshot" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9b4c13cf-fa67-4439-aebf-52cbe47001e7" alt="Screenshot 1" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/f2d7630d-6ba6-4535-96c6-7a329d8a77fd" alt="Screenshot 2" width="400"/>
 </p>
 
 ***Percentage Reduction in Torque for Each Iteration***
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/050afd84-47dd-4304-84e6-9a1d403ca0cf" alt="Screenshot" width="500"/>
 </p>
 
@@ -41,7 +41,7 @@ Clippings from the Report
 ### Joint and Gear Mechanism
 The design included detailed joint definitions and the incorporation of gears and structures necessary for effective motion transmission. The stepper motor's movement was transmitted to the robot arm's links through these gears, enabling precise and controlled movements.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/28ccc6b7-4715-4975-a8ca-17c85b08f66b" alt="Picture2" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/080808f2-c739-4e44-9f39-d05cab157f15" alt="Picture3" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/d5053fc8-d27b-43fe-a71f-9fd0aa78c307" width="300">
@@ -53,7 +53,7 @@ The design included detailed joint definitions and the incorporation of gears an
 ### Motion Analysis
 Extensive motion analysis was performed to test the effectiveness of the design. This involved analyzing motion transmission through gravitational and contact forces, defining contact surfaces, and applying various load conditions. Altair Inspire was used for these analyses, ensuring that the design could withstand operational stresses.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/31edc3ed-c2a8-4e44-a647-dac203c08401" alt="Media1" width="300"/>
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/22570552-651e-4998-b8e8-1c790a9597de" alt="Media2" width="300"/>
 </p>
@@ -64,7 +64,7 @@ Based on stress analysis results, topographical optimization was performed on no
 
 ***Topographical Optimization on Heavy Part***
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/a8a5328c-67ff-47ad-bfcb-d8653ed90db0" width="400"/>
 </p>
 
@@ -72,7 +72,7 @@ Based on stress analysis results, topographical optimization was performed on no
 
 ***Final Design Based on Optimization Results***
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/61de248f-10fd-4302-b215-ad6cfed894f8" width="400"/>
 </p>
 
@@ -82,11 +82,11 @@ Various 3D printing techniques were evaluated to determine the most suitable met
 
 ***3D Printed Parts***
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/90c1e8e5-52d7-4f4c-ab80-2978011c1241" width="100">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/8e1b9678-faa2-457a-accc-be91ee9cb77f" width="100">
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c11d19f3-33f7-4862-a6e4-be67d89e409f" width="400">
 </p>
 
@@ -94,7 +94,7 @@ Various 3D printing techniques were evaluated to determine the most suitable met
 Forward kinematics equations were generated using Denavit-Hartenberg rules. These equations provided a mathematical model of the robot arm's movements, enabling precise control and operation.
 
 ***DH Table based on Robot Dimensions***
-<p align="center">
+<p align="left">
   <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/6b80c642-2405-424b-b9f4-ef11262e3ce2" alt="unnamed" width="100"/>
   <img width="400" alt="Screenshot 2024-07-09 170959" src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/c04e0a84-939f-4e4c-80fb-531b2183b4c0">
 </p>
