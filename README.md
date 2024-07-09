@@ -60,10 +60,12 @@ Extensive motion analysis was performed to test the effectiveness of the design.
 Based on stress analysis results, topographical optimization was performed on non-crucial sections of the design. This optimization aimed to reduce material usage and weight while maintaining structural integrity, ultimately enhancing the overall design.
 
 ***Topographical Optimization on Heavy Part***
+
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/a8a5328c-67ff-47ad-bfcb-d8653ed90db0" width="400"/>
 
 
 ***Final Design Based on Optimization Results***
+
 <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/61de248f-10fd-4302-b215-ad6cfed894f8" width="400"/>
 
 ### 3D Printing Technique Evaluation
