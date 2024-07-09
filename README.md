@@ -1,8 +1,5 @@
 # Design and Fabrication of Robot Manipulator Arm using 3D Printing Techniques
 
-## Project Duration
-**August 2019 – March 2020**
-
 ## Project Overview
 This project involved the design and fabrication of an industrial robot manipulator arm utilizing 3D printing techniques. The objective was to create a robot arm with optimized reach, reduced torque requirements, and maximized workspace area. The design process included multiple iterations and extensive testing to ensure the effectiveness and efficiency of the final product.
 
@@ -55,6 +52,12 @@ The design included detailed joint definitions and the incorporation of gears an
 
 ### Motion Analysis
 Extensive motion analysis was performed to test the effectiveness of the design. This involved analyzing motion transmission through gravitational and contact forces, defining contact surfaces, and applying various load conditions. Altair Inspire was used for these analyses, ensuring that the design could withstand operational stresses.
+
+<p align="center">
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/31edc3ed-c2a8-4e44-a647-dac203c08401" alt="Media1" width="300"/>
+  <img src="https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/22570552-651e-4998-b8e8-1c790a9597de" alt="Media2" width="300"/>
+</p>
+
 
 ### Design Optimization
 Based on stress analysis results, topographical optimization was performed on non-crucial sections of the design. This optimization aimed to reduce material usage and weight while maintaining structural integrity, ultimately enhancing the overall design.
