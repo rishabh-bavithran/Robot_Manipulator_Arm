@@ -18,6 +18,16 @@ This project involved the design and fabrication of an industrial robot manipula
 ### CAD Design and Iteration
 The project began with the creation of an initial CAD design of the robot arm using CREO Parametric. Multiple iterations were produced, each improving upon the previous design in terms of reach, torque requirements, and workspace area. These iterations were imported into Altair Inspire for motion analysis, ensuring that each version met the desired performance criteria.
 
+Clippings from the Report
+***First Iteration Results*** - Design, Workspace and Torque Requirements
+![Screenshot from 2024-07-09 15-10-30](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9c4ea211-2462-4466-8cba-9e5a85cd6ed4) 
+
+![Screenshot from 2024-07-09 15-11-06](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/9318acc8-8c41-4e33-a8c6-0ddac3b41521)
+
+![Screenshot from 2024-07-09 15-11-34](https://github.com/rishabh-bavithran/Robot_Manipulator_Arm/assets/145865695/aad4b5cb-b907-40d7-a8d9-5fcc58b11828)
+
+
+
 ### Joint and Gear Mechanism
 The design included detailed joint definitions and the incorporation of gears and structures necessary for effective motion transmission. The stepper motor's movement was transmitted to the robot arm's links through these gears, enabling precise and controlled movements.
 
