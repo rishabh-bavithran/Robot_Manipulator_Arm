@@ -1,0 +1,37 @@
+# Design and Fabrication of Robot Manipulator Arm using 3D Printing Techniques
+
+## Project Duration
+**August 2019 – March 2020**
+
+## Project Overview
+This project involved the design and fabrication of an industrial robot manipulator arm utilizing 3D printing techniques. The objective was to create a robot arm with optimized reach, reduced torque requirements, and maximized workspace area. The design process included multiple iterations and extensive testing to ensure the effectiveness and efficiency of the final product.
+
+## Key Features
+- **CAD Design:** Developed the robot arm in CREO Parametric with multiple iterations of link lengths and arrangements. Each iteration was tested for better reach, lower torque requirements, and maximized workspace area by importing into Altair Inspire for motion analysis.
+- **Joint and Gear Mechanism Design:** Conceptualized and designed the joint definitions, incorporating gears and structures for motion transmission from the stepper motor to the links.
+- **Motion Analysis:** Conducted extensive testing and analysis of motion transmission through gravitational and contact forces. Defined contact surfaces and forces on the gear mechanism and analyzed various load conditions using Altair Inspire.
+- **Design Optimization:** Performed topographical optimization on non-crucial sections based on stress analysis results to refine and enhance the design.
+- **3D Printing Technique Evaluation:** Compared and determined the most effective 3D printing technique based on criteria such as time, cost, and required stiffness.
+- **Forward Kinematics:** Applied Denavit-Hartenberg rules to generate forward kinematics equations for the robot arm structure.
+
+## Detailed Description
+### CAD Design and Iteration
+The project began with the creation of an initial CAD design of the robot arm using CREO Parametric. Multiple iterations were produced, each improving upon the previous design in terms of reach, torque requirements, and workspace area. These iterations were imported into Altair Inspire for motion analysis, ensuring that each version met the desired performance criteria.
+
+### Joint and Gear Mechanism
+The design included detailed joint definitions and the incorporation of gears and structures necessary for effective motion transmission. The stepper motor's movement was transmitted to the robot arm's links through these gears, enabling precise and controlled movements.
+
+### Motion Analysis
+Extensive motion analysis was performed to test the effectiveness of the design. This involved analyzing motion transmission through gravitational and contact forces, defining contact surfaces, and applying various load conditions. Altair Inspire was used for these analyses, ensuring that the design could withstand operational stresses.
+
+### Design Optimization
+Based on stress analysis results, topographical optimization was performed on non-crucial sections of the design. This optimization aimed to reduce material usage and weight while maintaining structural integrity, ultimately enhancing the overall design.
+
+### 3D Printing Technique Evaluation
+Various 3D printing techniques were evaluated to determine the most suitable method for fabricating the robot arm. Factors such as time, cost, and required stiffness were considered in this evaluation to ensure the final product met the necessary specifications.
+
+### Forward Kinematics
+Forward kinematics equations were generated using Denavit-Hartenberg rules. These equations provided a mathematical model of the robot arm's movements, enabling precise control and operation.
+
+## Conclusion
+The design and fabrication of the robot manipulator arm were successfully completed, resulting in a highly optimized and efficient industrial robot arm. This project demonstrated the effective use of 3D printing techniques in robotics and provided valuable insights into design optimization and motion analysis.
